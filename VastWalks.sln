@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VastWalks.API", "VastWalks.API\VastWalks.API.csproj", "{DA6CBEB6-0E7D-467A-ABCE-B4F25E6BE44B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VastWalks.Web", "VastWalks.Web\VastWalks.Web.csproj", "{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6CBEB6-0E7D-467A-ABCE-B4F25E6BE44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6CBEB6-0E7D-467A-ABCE-B4F25E6BE44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6CBEB6-0E7D-467A-ABCE-B4F25E6BE44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6CBEB6-0E7D-467A-ABCE-B4F25E6BE44B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA18D43-3FB1-4364-9E25-DE6467F8E95C}
+	EndGlobalSection
+EndGlobal

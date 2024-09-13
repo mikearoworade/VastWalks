@@ -1,0 +1,6 @@
+@VastWalks.API_HostAddress = http://localhost:5237
+
+GET {{VastWalks.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

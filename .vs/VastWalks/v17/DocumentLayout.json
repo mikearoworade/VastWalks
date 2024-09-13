@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastwalks\\vastwalks.web\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|solutionrelative:vastwalks.web\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastwalks\\vastwalks.web\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|solutionrelative:vastwalks.web\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastwalks\\vastwalks.web\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|solutionrelative:vastwalks.web\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastwalks\\vastwalks.web\\views\\regions\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|solutionrelative:vastwalks.web\\views\\regions\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastwalks\\vastwalks.web\\models\\addregionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|solutionrelative:vastwalks.web\\models\\addregionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastwalks\\vastwalks.web\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|solutionrelative:vastwalks.web\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastwalks\\vastwalks.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|solutionrelative:vastwalks.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6CBEB6-0E7D-467A-ABCE-B4F25E6BE44B}|VastWalks.API\\VastWalks.API.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastwalks\\vastwalks.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA6CBEB6-0E7D-467A-ABCE-B4F25E6BE44B}|VastWalks.API\\VastWalks.API.csproj|solutionrelative:vastwalks.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|c:\\vastcrown_inc\\software_engineering\\c#\\vastwalks\\vastwalks.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198EEE78-351F-4CFB-ADBA-11B8442AD5CA}|VastWalks.Web\\VastWalks.Web.csproj|solutionrelative:vastwalks.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "VastWalks.Web\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "VastWalks.Web\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAkwH0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:49:51.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddRegionViewModel.cs",
+              "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Models\\AddRegionViewModel.cs",
+              "RelativeDocumentMoniker": "VastWalks.Web\\Models\\AddRegionViewModel.cs",
+              "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Models\\AddRegionViewModel.cs",
+              "RelativeToolTip": "VastWalks.Web\\Models\\AddRegionViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:27:35.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Views\\Regions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VastWalks.Web\\Views\\Regions\\Edit.cshtml",
+              "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Views\\Regions\\Edit.cshtml",
+              "RelativeToolTip": "VastWalks.Web\\Views\\Regions\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T06:05:33.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Views\\Regions\\Add.cshtml",
+              "RelativeDocumentMoniker": "VastWalks.Web\\Views\\Regions\\Add.cshtml",
+              "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Views\\Regions\\Add.cshtml",
+              "RelativeToolTip": "VastWalks.Web\\Views\\Regions\\Add.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T14:46:02.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegionDto.cs",
+              "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Models\\DTO\\RegionDto.cs",
+              "RelativeDocumentMoniker": "VastWalks.Web\\Models\\DTO\\RegionDto.cs",
+              "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Models\\DTO\\RegionDto.cs",
+              "RelativeToolTip": "VastWalks.Web\\Models\\DTO\\RegionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:51:15.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VastWalks.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VastWalks.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswBkAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T13:22:52.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VastWalks.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VastWalks.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T13:01:03.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Views\\Regions\\Index.cshtml",
+              "RelativeDocumentMoniker": "VastWalks.Web\\Views\\Regions\\Index.cshtml",
+              "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Views\\Regions\\Index.cshtml",
+              "RelativeToolTip": "VastWalks.Web\\Views\\Regions\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T12:50:18.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Program.cs",
+              "RelativeDocumentMoniker": "VastWalks.Web\\Program.cs",
+              "ToolTip": "C:\\Vastcrown_Inc\\Software_Engineering\\c#\\VastWalks\\VastWalks.Web\\Program.cs",
+              "RelativeToolTip": "VastWalks.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:51:30.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
